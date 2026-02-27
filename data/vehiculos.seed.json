@@ -1,0 +1,33 @@
+[
+  { "marca": "Ford", "modelo": "Focus", "kilometros": 85000, "precio": 12000000 },
+  { "marca": "Ford", "modelo": "Ranger", "kilometros": 65000, "precio": 20000000 },
+  { "marca": "Ford", "modelo": "Ka", "kilometros": 78000, "precio": 11000000 },
+  { "marca": "Ford", "modelo": "Fiesta", "kilometros": 91000, "precio": 9800000 },
+
+  { "marca": "Volkswagen", "modelo": "Gol", "kilometros": 85000, "precio": 12000000 },
+  { "marca": "Volkswagen", "modelo": "Golf", "kilometros": 55000, "precio": 18000000 },
+  { "marca": "Volkswagen", "modelo": "Amarok", "kilometros": 63000, "precio": 22000000 },
+  { "marca": "Volkswagen", "modelo": "Polo", "kilometros": 42000, "precio": 17000000 },
+
+  { "marca": "Nissan", "modelo": "Kicks", "kilometros": 45000, "precio": 22000000 },
+  { "marca": "Nissan", "modelo": "March", "kilometros": 73000, "precio": 13000000 },
+  { "marca": "Nissan", "modelo": "Frontier", "kilometros": 53000, "precio": 30000000 },
+  { "marca": "Nissan", "modelo": "Versa", "kilometros": 39000, "precio": 21000000 },
+
+  { "marca": "Toyota", "modelo": "Corolla", "kilometros": 48000, "precio": 24500000 },
+  { "marca": "Toyota", "modelo": "Hilux", "kilometros": 62000, "precio": 36000000 },
+  { "marca": "Toyota", "modelo": "Yaris", "kilometros": 35000, "precio": 19500000 },
+
+  { "marca": "Chevrolet", "modelo": "Onix", "kilometros": 41000, "precio": 16500000 },
+  { "marca": "Chevrolet", "modelo": "Cruze", "kilometros": 56000, "precio": 23500000 },
+  { "marca": "Chevrolet", "modelo": "S10", "kilometros": 69000, "precio": 34500000 },
+
+  { "marca": "Peugeot", "modelo": "208", "kilometros": 33000, "precio": 17800000 },
+  { "marca": "Peugeot", "modelo": "2008", "kilometros": 29000, "precio": 26500000 },
+
+  { "marca": "Renault", "modelo": "Sandero", "kilometros": 59000, "precio": 15000000 },
+  { "marca": "Renault", "modelo": "Duster", "kilometros": 47000, "precio": 23800000 },
+
+  { "marca": "Honda", "modelo": "Civic", "kilometros": 52000, "precio": 27800000 },
+  { "marca": "Honda", "modelo": "HR-V", "kilometros": 37000, "precio": 31500000 }
+]

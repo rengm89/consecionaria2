@@ -1,0 +1,23 @@
+{
+  "name": "consecionaria",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "NODE_ENV=development nodemon index.js",
+    "seed:vehicles": "node seedVehicles.js",
+    "seed:vehicles:reset": "node seedVehicles.js --reset",
+    "sync:catalog": "node syncCatalogFromVehicles.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.0"
+  }
+}
