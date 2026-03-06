@@ -1,6 +1,6 @@
 # Concesionaria
 
-Aplicacion full stack para gestionar catalogo y stock de vehiculos.
+Aplicacion para gestionar catalogo y stock de vehiculos.
 
 ## Stack
 
